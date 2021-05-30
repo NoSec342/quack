@@ -25,6 +25,8 @@
 
 ***
 
+# Made by entynetproject
+
 # About Quack Toolkit
 
 ```
